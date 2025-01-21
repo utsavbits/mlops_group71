@@ -1,0 +1,11 @@
+name: mlops_env
+dependencies:
+  - python=3.10
+  - pandas
+  - scikit-learn
+  - flask
+  - matplotlib
+  - seaborn
+  - pip
+  - pip:
+    - joblib
